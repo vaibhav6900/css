@@ -1,0 +1,23 @@
+h1{
+    font-size: 50px;
+    margin: 0 auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    color: deeppink;
+}
+table{
+    font-size: 20px;
+    margin: 0 auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    color: hsla(hue, saturation, lightness, alpha)
+}
+form{
+    color:black
+}
+.link
+{
+    color: crimson;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    background-color: darkmagenta;
+
+}

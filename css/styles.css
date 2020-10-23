@@ -1,0 +1,40 @@
+body{
+    
+    text-align: center;
+    background-color: mediumaquamarine;
+    
+
+
+}
+.learn
+{
+    text-decoration: underline;
+}
+
+h1
+{
+    
+    margin: 0 auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 90px;
+    color: maroon
+
+}
+p{
+    font-family: 'Luckiest Guy', cursive;
+}
+}
+
+
+.one
+{
+    background-color:  mediumaquamarine;
+     position: relative;
+    right: 200px;
+
+    
+}
+.top p{
+    font-size: 2.5rem;
+    color: crimson;
+}
